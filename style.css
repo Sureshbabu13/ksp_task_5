@@ -1,0 +1,18 @@
+
+            h1{
+                color:red;
+                font-family: monospace;
+                font-size: 45px;
+                background-color: rgb(228, 222, 222);
+                margin: 20px 30px 20px 20px;
+                /* top right bottom left */
+            }
+            table,th,td{
+               border: 2px dotted rgb(95, 21, 21); 
+            }
+        .p{
+            color:blue;
+        }
+        #book{
+            color: pink;
+        }
